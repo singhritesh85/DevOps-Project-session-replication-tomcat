@@ -42,4 +42,23 @@ Now open the Tomcat Manager as shown in the screenshot below and be asured about
 ![image](https://github.com/user-attachments/assets/d855b518-3481-4dd8-be9f-c9d07353aea6)
 ![image](https://github.com/user-attachments/assets/893d5cd4-03c8-4bd5-b01d-fe01ee45d353)
 ![image](https://github.com/user-attachments/assets/b9778f87-1cde-44b1-a7e9-b0561b1d58ea)
+<br><br/>
+<br><br/>
+<br><br/>
+<br><br/>
+<br><br/>
+```
+Source Code:- https://github.com/singhritesh85/tomcat-session-replication.git 
+```
+<br><br/>
+<br><br/>
+<br><br/>
+<br><br/>
+<br><br/>
+```
+References
 
+https://ashok198510.hashnode.dev/cloud-native-two-tier-application-deployment-with-eks-tomcat-and-rds-in-aws
+https://github.com/Ashoksana/aws-rds-java.git
+https://tomcat.apache.org/tomcat-8.5-doc/cluster-howto.html
+```
