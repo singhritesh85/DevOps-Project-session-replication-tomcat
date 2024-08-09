@@ -1,3 +1,3 @@
 # DevOps-Project-session-replication-tomcat
 
-![image](https://github.com/user-attachments/assets/c3e4d1f7-e990-4f16-9f29-e748b77d0aee)
+![image](https://github.com/user-attachments/assets/ff20b0ea-1baa-49bc-aebd-e97e0717f01a)
