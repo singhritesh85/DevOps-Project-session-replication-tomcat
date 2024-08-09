@@ -31,3 +31,15 @@ To run the Jenkins Job successfully webhook had been created in SonarQube and mo
 
 The entry for Route53 to create the record set in hosted zone is as shown below.
 ![image](https://github.com/user-attachments/assets/531b471a-4e06-4ef6-8bad-b3240ff7fa95)
+
+Finally access the newly created URL as shown in the screenshot below.
+![image](https://github.com/user-attachments/assets/e14b5df5-948b-4f97-9a81-3608e9cc6492)
+![image](https://github.com/user-attachments/assets/7683fac5-2fa1-4543-a769-7f0ae1d1faf5)
+![image](https://github.com/user-attachments/assets/01097504-7428-4a5b-bd29-10bd505b66c8)
+
+Now open the Tomcat Manager as shown in the screenshot below and be asured about the session replication.
+![image](https://github.com/user-attachments/assets/47c4554e-c05b-4f99-b1af-aa4384c4bdc8)
+![image](https://github.com/user-attachments/assets/d855b518-3481-4dd8-be9f-c9d07353aea6)
+![image](https://github.com/user-attachments/assets/893d5cd4-03c8-4bd5-b01d-fe01ee45d353)
+![image](https://github.com/user-attachments/assets/b9778f87-1cde-44b1-a7e9-b0561b1d58ea)
+
