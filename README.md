@@ -22,6 +22,7 @@ After running the Jenkins Job the screenshot for SonarQube, Nexus Artifactory an
 
 ![image](https://github.com/user-attachments/assets/f9a57bc5-d791-4058-8864-778de0642e65)
 ![image](https://github.com/user-attachments/assets/ec26bce2-4bf1-4cc2-84e1-1d882d3e1fed)
+![image](https://github.com/user-attachments/assets/b12874d8-7c6b-404d-8aee-fa3f625d100b)
 
 To run the Jenkins Job successfully webhook had been created in SonarQube and modified the /etc/resolv.conf file on SonarQube and on Jenkins Slave Node as shown in the screenshot below.
 ![image](https://github.com/user-attachments/assets/1bfaf933-1e58-491b-b8c7-81b6de0fefe9)
