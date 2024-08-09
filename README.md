@@ -15,8 +15,8 @@ Here I have used session replication in EC2 Instances with StaticMembership rath
 
 Create the database jwt and table USER in MySQL as shown in the screenshot below before running the Jenkins Job.
 ![image](https://github.com/user-attachments/assets/934fd984-31c6-4269-9b3b-7b0435f252d8)
-![image](https://github.com/user-attachments/assets/ab32e127-cc2d-431c-8b56-342cb6fb45a3)
 ![image](https://github.com/user-attachments/assets/7b30172d-398b-417c-8407-c0a2be0e6417)
+![image](https://github.com/user-attachments/assets/ab32e127-cc2d-431c-8b56-342cb6fb45a3)
 
 After running the Jenkins Job the screenshot for SonarQube, Nexus Artifactory and entry inside the database jwt's USER table is as shown below.
 
