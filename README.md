@@ -29,3 +29,5 @@ To run the Jenkins Job successfully webhook had been created in SonarQube and mo
 ![image](https://github.com/user-attachments/assets/367fff64-ffaf-4490-81e8-1c15f1213280)
 ![image](https://github.com/user-attachments/assets/a28d96ce-b089-49a2-8190-95f414dfac22)
 
+The entry for Route53 to create the record set in hosted zone is as shown below.
+![image](https://github.com/user-attachments/assets/531b471a-4e06-4ef6-8bad-b3240ff7fa95)
